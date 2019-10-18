@@ -1,6 +1,6 @@
 # App_Jogo-Da-Velha
 App de jogo da velha para Android e IOS utilizando React Native.
-**Palavras chave:** JavaScript, DOOM.
+**Palavras chave:** JavaScript, React Native.
 
 ## Pré-requisitos
 ```
