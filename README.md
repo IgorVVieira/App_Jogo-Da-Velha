@@ -2,9 +2,18 @@
 App de jogo da velha para Android e IOS utilizando React Native.
 **Palavras chave:** JavaScript, React Native.
 
+### Pagina Inicial do Jogo
+![](_img/print1.png)
+
+### Durante a partida
+![](_img/print2.png)
+
+### Fim de jogo
+![](_img/print3.png)
+
 ## Pré-requisitos
 ```
-Ter instlado o React Native com todas suas dependências.
+Ter instalado o React Native com todas suas dependências.
 ```
 
 ## Construído com
