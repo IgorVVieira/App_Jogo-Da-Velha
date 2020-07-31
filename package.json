@@ -1,5 +1,5 @@
 {
-  "name": "JogoDaVelha",
+  "name": "jogo_da-velha",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "react": "16.9.0",
-    "react-native": "0.61.1"
+    "react-native": "^0.63.2"
   },
   "devDependencies": {
     "@babel/core": "7.6.2",
